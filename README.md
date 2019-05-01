@@ -54,5 +54,3 @@
 Deploying our App
 Testing Node.js Applications
 Node.js as a Build Tool & Using npm
-Roundup
-
