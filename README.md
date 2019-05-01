@@ -44,10 +44,10 @@
 
 [Section Seven](#)
 
-Working the REST APIs - The Practical Application
-Understanding Async Await in Node.js
-Understand Websockets & Socket.io
-Working with GraphQL
+* Working the REST APIs - The Practical Application  
+* Understanding Async Await in Node.js  
+* Understand Websockets & Socket.io  
+* Working with GraphQL  
 
 [Section Eight](#)
 
