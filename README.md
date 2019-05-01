@@ -51,6 +51,6 @@
 
 [Section Eight](#)
 
-Deploying our App
-Testing Node.js Applications
-Node.js as a Build Tool & Using npm
+* Deploying our App  
+* Testing Node.js Applications  
+* Node.js as a Build Tool & Using npm  
