@@ -2,10 +2,10 @@
 
 [Section One](#)
 
-Introduction
-JavaScript - A Quick Refresher
-Understanding the Basics
-Improved Development Workflow and Debugging
+* Introduction  
+* JavaScript - A Quick Refresher  
+* Understanding the Basics  
+* Improved Development Workflow and Debugging  
 
 [Section Two](#)
 
