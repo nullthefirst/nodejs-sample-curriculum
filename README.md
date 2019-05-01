@@ -1,47 +1,56 @@
-Modules
-Week One
+# Sample Node.js Curriculum
+
+Section One
+
 Introduction
 JavaScript - A Quick Refresher
 Understanding the Basics
 Improved Development Workflow and Debugging
 
-Week Two
+Section Two
+
 Working with Express.js
 Working with Dynamic Content & Adding Templating Engines
 The Mode View Controller (MVC)
 Enhancing the App
 
-Week Three
+Section Three
+
 Dynamics Routes &  Advanced Models
 SQL Introduction
 Understanding Sequelize
 Working with NoSQL & Using MongoDB
 
-Week Four
+Section Four
+
 Working with Mongoose
 Sessions & Cookies
 Adding Authentication
 Sending Emails
 
-Week Five
+Section Five
+
 Advanced Authentication
 Understanding Validation
 Error Handling
 File Upload & Download
 
-Week Six
+Section Six
+
 Adding Pagination
 Understanding Async Requests
 Adding Payments
 Working the REST APIs - The Basics
 
-Week Seven
+Section Seven
+
 Working the REST APIs - The Practical Application
 Understanding Async Await in Node.js
 Understand Websockets & Socket.io
 Working with GraphQL
 
-Week Eight
+Section Eight
+
 Deploying our App
 Testing Node.js Applications
 Node.js as a Build Tool & Using npm
