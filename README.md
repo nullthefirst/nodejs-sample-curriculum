@@ -23,10 +23,10 @@
 
 [Section Four](#)
 
-Working with Mongoose
-Sessions & Cookies
-Adding Authentication
-Sending Emails
+* Working with Mongoose  
+* Sessions & Cookies  
+* Adding Authentication  
+* Sending Emails  
 
 [Section Five](#)
 
