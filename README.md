@@ -19,11 +19,9 @@
 * Dynamics Routes & Advanced Models  
 * SQL Introduction  
 * Understanding Sequelize  
-* Working with NoSQL & Using MongoDB  
 
 [Section Four](#)
 
-* Working with Mongoose  
 * Sessions & Cookies  
 * Adding Authentication  
 * Sending Emails  
