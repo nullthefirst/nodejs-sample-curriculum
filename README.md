@@ -37,10 +37,10 @@
 
 [Section Six](#)
 
-Adding Pagination
-Understanding Async Requests
-Adding Payments
-Working the REST APIs - The Basics
+* Adding Pagination  
+* Understanding Async Requests  
+* Adding Payments  
+* Working the REST APIs - The Basics  
 
 [Section Seven](#)
 
