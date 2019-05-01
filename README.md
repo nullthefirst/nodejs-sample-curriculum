@@ -9,10 +9,10 @@
 
 [Section Two](#)
 
-Working with Express.js
-Working with Dynamic Content & Adding Templating Engines
-The Mode View Controller (MVC)
-Enhancing the App
+* Working with Express.js  
+* Working with Dynamic Content & Adding Templating Engines  
+* The Mode View Controller (MVC)  
+* Enhancing the App  
 
 [Section Three](#)
 
