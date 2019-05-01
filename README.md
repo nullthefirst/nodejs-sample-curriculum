@@ -30,10 +30,10 @@
 
 [Section Five](#)
 
-Advanced Authentication
-Understanding Validation
-Error Handling
-File Upload & Download
+* Advanced Authentication  
+* Understanding Validation  
+* Error Handling  
+* File Upload & Download  
 
 [Section Six](#)
 
