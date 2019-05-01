@@ -1,55 +1,55 @@
 # Sample Node.js Curriculum
 
-Section One
+[Section One](#)
 
 Introduction
 JavaScript - A Quick Refresher
 Understanding the Basics
 Improved Development Workflow and Debugging
 
-Section Two
+[Section Two](#)
 
 Working with Express.js
 Working with Dynamic Content & Adding Templating Engines
 The Mode View Controller (MVC)
 Enhancing the App
 
-Section Three
+[Section Three](#)
 
 Dynamics Routes &  Advanced Models
 SQL Introduction
 Understanding Sequelize
 Working with NoSQL & Using MongoDB
 
-Section Four
+[Section Four](#)
 
 Working with Mongoose
 Sessions & Cookies
 Adding Authentication
 Sending Emails
 
-Section Five
+[Section Five](#)
 
 Advanced Authentication
 Understanding Validation
 Error Handling
 File Upload & Download
 
-Section Six
+[Section Six](#)
 
 Adding Pagination
 Understanding Async Requests
 Adding Payments
 Working the REST APIs - The Basics
 
-Section Seven
+[Section Seven](#)
 
 Working the REST APIs - The Practical Application
 Understanding Async Await in Node.js
 Understand Websockets & Socket.io
 Working with GraphQL
 
-Section Eight
+[Section Eight](#)
 
 Deploying our App
 Testing Node.js Applications
